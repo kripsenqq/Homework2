@@ -1,0 +1,62 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+body{
+    position: relative;
+    background-color: #C9C5FF;
+}
+header{
+    position: absolute;
+    width: 1633px;
+    height: 100px;
+    background: #000000;
+}
+.menu_item{
+    display: inline-block;
+    margin-right: 126px;
+    margin-top: 47px;
+    width: 35px;
+    height: 24px;
+    left: 403px;
+    top: 47px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #C9C5FF;
+}
+.astronaut{
+    position: absolute;
+    width: 399px;
+    height: 407px;
+    left: 118px;
+    top: 259px;
+}
+.description{
+    position: absolute;
+    width: 684px;
+    height: 388px;
+    left: 664px;
+    top: 372px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    /* or 75% */
+    text-align: center;
+    color: #000000;
+}
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 113px;
+    background: #D9D9D9;
+    left: 0px;
+    top: 870px;
+}
+.nuidermo{
+    padding: 25px 10px 25px 10px;
+}
